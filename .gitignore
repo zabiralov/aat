@@ -3,6 +3,7 @@
 !.gitignore
 !LICENSE
 !README.md
-!cmd/aat/*.go
+!cmd/aat/main.go
 !go.mod
 !go.sum
+!Makefile
