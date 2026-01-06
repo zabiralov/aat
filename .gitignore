@@ -4,3 +4,5 @@
 !LICENSE
 !README.md
 !cmd/aat/*.go
+!go.mod
+!go.sum
